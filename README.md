@@ -33,3 +33,7 @@ If you use ChatGPT regularly for structured work:
 ✅ Optionally, ask it to remember your KERNEL prompt
 
 ✅ Start prompts with: “Use my KERNEL framework for this…” to get consistent results
+
+
+<img width="1613" height="808" alt="image" src="https://github.com/user-attachments/assets/18789c37-0c34-485b-b468-5aa9171820e0" />
+
